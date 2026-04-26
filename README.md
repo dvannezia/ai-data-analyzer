@@ -21,3 +21,5 @@ This project is a simple web-based application that allows users to upload CSV d
 
 ## Purpose
 This project demonstrates data processing, reporting automation, and basic AI-inspired analysis for decision support systems.
+## Preview
+![Preview](ai2.png)
