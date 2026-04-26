@@ -1,18 +1,23 @@
 # AI Data Analyzer & Report Generator
 
-A simple web app that allows users to upload CSV data and generate AI-powered insights.
+This project is a simple web-based application that allows users to upload CSV datasets and generate automated insights, trends, and recommendations.
 
 ## Features
-- Upload CSV
-- View data in table
-- Generate AI insights
+- Upload CSV data
+- Display structured data in table format
+- Generate insights using simulated AI logic
+- Automated summaries and recommendations
 
 ## Tech Stack
 - PHP
 - JavaScript
-- OpenAI API
+- HTML/CSS
 
 ## How to Run
-1. Place folder in XAMPP htdocs
-2. Start Apache
-3. Open http://localhost/ai-data-analyzer
+1. Install XAMPP
+2. Place project folder in `htdocs`
+3. Start Apache
+4. Open `http://localhost/ai-data-analyzer`
+
+## Purpose
+This project demonstrates data processing, reporting automation, and basic AI-inspired analysis for decision support systems.
